@@ -57,15 +57,20 @@ The dashboard helps understand business performance, customer behavior, revenue 
 
 The repository includes screenshots of all three dashboard pages:
 
-- Overview
-- Customer Analytics
-- Plan Analysis
+### 1. Overview
+![Overview](Overview.png)
+
+### 2. Customer Analytics
+![Customer Analytics](Customer_Analytics.png)
+
+### 3. Plan Analysis
+![Plan Analysis](Plan_Analysis.png)
 
 ## 📁 Project Files
 
-- Power BI dashboard (`.pbix`)
-- Project presentation (`.pdf`)
-- Dashboard screenshots
+- `Airtel_Telecom_Business_Analytics.pbix` – Power BI dashboard file.
+- `Airtel_Project_Presentation.pdf` – Project presentation.
+- Dashboard screenshots – Overview, Customer Analytics, and Plan Analysis.
 
 ## 💡 Key Learning Outcomes
 
